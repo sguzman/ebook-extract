@@ -1,0 +1,48 @@
+{
+  "null": [
+    "('Melville, Herman', {'property': 'file-as', 'refines': '#author_0'})",
+    "('aut', {'property': 'role', 'refines': '#author_0', 'scheme': 'marc:relators'})",
+    "('2025-07-02T07:58:31Z', {'property': 'dcterms:modified'})",
+    "('textual', {'property': 'schema:accessMode'})",
+    "('readingOrder', {'property': 'schema:accessibilityFeature'})",
+    "('none', {'property': 'schema:accessibilityHazard'})",
+    "('textual,visual', {'property': 'schema:accessModeSufficient'})",
+    "('This publication may not have complete alternative text descriptions.', {'property': 'schema:accessibilitySummary'})"
+  ],
+  "cover": [
+    "(None, {'name': 'cover', 'content': 'item1'})"
+  ],
+  "rights": [
+    "('Public domain in the USA.', {})"
+  ],
+  "identifier": [
+    "('http://www.gutenberg.org/2701', {'id': 'id'})"
+  ],
+  "creator": [
+    "('Herman Melville', {'id': 'author_0'})"
+  ],
+  "title": [
+    "('Moby Dick; Or, The Whale', {})"
+  ],
+  "language": [
+    "('en', {})"
+  ],
+  "subject": [
+    "('Whaling -- Fiction', {})",
+    "('Sea stories', {})",
+    "('Psychological fiction', {})",
+    "('Ship captains -- Fiction', {})",
+    "('Adventure stories', {})",
+    "('Mentally ill -- Fiction', {})",
+    "('Ahab, Captain (Fictitious character) -- Fiction', {})",
+    "('Whales -- Fiction', {})",
+    "('Whaling ships -- Fiction', {})"
+  ],
+  "date": [
+    "('2001-07-01', {})"
+  ],
+  "source": [
+    "('https://www.gutenberg.org/files/2701/2701-h/2701-h.htm', {})"
+  ],
+  "custom_meta": []
+}
